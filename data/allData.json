@@ -1,0 +1,88 @@
+{
+  "months": [
+     {
+      "date": "12/13/2016 to 1/11/17",
+      "totalPowerUsage": 1754.84,
+      "gridCost": 473.81,
+      "solarCost": 327.5,
+      "netDifference": 146.31
+    },
+    {
+      "date": "1/12/17 to 2/12/17",
+      "totalPowerUsage": 1704.05,
+      "gridCost": 460.09,
+      "solarCost": 266,
+      "netDifference": 194.09
+    },
+    {
+      "date": "2/13/17 to 3/14/17",
+      "totalPowerUsage": 1647.04,
+      "gridCost": 444.7,
+      "solarCost": 78.54,
+      "netDifference": 366.16
+    },
+    {
+      "date": "3/15/17 to 4/13/17",
+      "totalPowerUsage": 1535.75,
+      "gridCost": 414.65,
+      "solarCost": 41.01,
+      "netDifference": 373.64
+    },
+    {
+      "date": "4/14/17 to 5/14/17",
+      "totalPowerUsage": 1615.71,
+      "gridCost": 436.24,
+      "solarCost": -38.01,
+      "netDifference": 398.23
+    },
+    {
+      "date": "5/15/17 to 6/13/17",
+      "totalPowerUsage": 1402.22,
+      "gridCost": 378.6,
+      "solarCost": -116.66,
+      "netDifference": 261.94
+    },
+    {
+      "date": "6/14/17 to 7/13/17",
+      "totalPowerUsage": 1511.48,
+      "gridCost": 408.1,
+      "solarCost": -123.8,
+      "netDifference": 284.30
+    },
+    {
+      "date": "7/14/17 to 8/14/17",
+      "totalPowerUsage": 1365.75,
+      "gridCost": 368.75,
+      "solarCost": -94.97,
+      "netDifference": 273.78
+    },
+    {
+      "date": "8/15/17 to 9/13/17",
+      "totalPowerUsage": 1327.15,
+      "gridCost": 358.33,
+      "solarCost": -57.67,
+      "netDifference": 300.66
+    },
+    {
+      "date": "9/14/17 to 10/12/17",
+      "totalPowerUsage": 1199.01,
+      "gridCost": 323.73,
+      "solarCost": -22.14,
+      "netDifference": 301.59
+    },
+    {
+      "date": "10/13/17 to 11/12/17",
+      "totalPowerUsage": 1309.97,
+      "gridCost": 353.69,
+      "solarCost": 144.5,
+      "netDifference": 209.19
+    },
+    {
+      "date": "11/13/1 tp 12/12/17",
+      "totalPowerUsage": 1492.25,
+      "gridCost": 402.91,
+      "solarCost": 193.41,
+      "netDifference": 209.50
+    }
+  ]
+}

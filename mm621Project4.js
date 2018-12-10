@@ -21,7 +21,7 @@ function preload() {
 }
 
 function setup() {
-  //createCanvas(720, 480);
+  createCanvas(1080, 720);
   if (powerUseOnScreen) {
     //time up/down variable "timeChange"
 
@@ -38,20 +38,20 @@ function setup() {
 }
 
 function draw() {
-  //background(100);
-  //fill(255, 0, 175);
+  background(100);
+  fill(255, 0, 175);
   //test circle to ensure code functions. Wiull be replaced with monthSelector
-  //ellipse(200, 200, monthSlider.value() * 20, monthSlider.value() * 20);
+  ellipse(200, 200, monthSlider.value() * 20, monthSlider.value() * 20);
+
   monthSelector = monthSlider.value();
+
+  //X-location replaced with variable connected to current month
+  image(tugOfWarImage, monthSelector*20, 400, 700, 300);
 
   solarCost();
   gridCost();
   netResult();
   currentMonth();
-
-  //replace Y-location with variable connected to current month
-  //image(chickenPulling, 500, 500);
-  //image(zachPulling, 500, 500);
 
 //in theory, when the value on the slider (represented by monthSlider.value() ), increases or decreases, the monthSelector, which powers the array position selector (e.g. array[monthSelector]) will change causing all custom functions to "++" or "--" accordingly
 
